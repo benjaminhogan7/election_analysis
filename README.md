@@ -30,3 +30,4 @@ In performing this analysis, I would recommend to the election commission that t
 Additionally, with some slight modifications and testing, it could be applied to local races as well as statewide races and perhaps the presidential election.
 
 It seems like a big win for quickly, accurately, and inexpensively auditing elections around the state.
+
